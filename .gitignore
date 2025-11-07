@@ -44,6 +44,8 @@ ENV/
 .ipynb_checkpoints/
 profile_default/
 ipython_config.py
+pretraining.asciidoc
+pretraining.html
 
 # Checkpoints / model artifacts
 *.pth
